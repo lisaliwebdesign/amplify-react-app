@@ -1,5 +1,12 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## AWS AUTH
+
+https://aws-amplify.github.io/docs/js/authentication
+
+## AWS analytics
+https://us-east-1.console.aws.amazon.com/pinpoint/home/?region=us-east-1#/apps/9821bb15512b4bce9ccf7eae64eaf4ca/analytics/overview
+
 ## Available Scripts
 
 In the project directory, you can run:
